@@ -25,4 +25,7 @@ downloaded message will be in file **`SETI_message.txt`**
 
 image will be created in file **`SETI_message.gif`**
 
-also, take a look at [Arecibo message](https://en.wikipedia.org/wiki/Arecibo_message)
+links:
+[Arecibo message](https://en.wikipedia.org/wiki/Arecibo_message)
+and 
+[SETI](https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence)
