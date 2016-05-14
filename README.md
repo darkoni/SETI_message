@@ -19,7 +19,7 @@ for now, i made PHP script that downloads message and creates GIF image
 
 how to start PHP script:
 
-`php SETI_message.php`
+**`php SETI_message.php`**
 
 downloaded message will be in file `SETI_message.txt`
 
