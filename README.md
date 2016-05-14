@@ -1,10 +1,12 @@
 # SETI message
 
 http://mic.com/articles/142618/this-astrophysicist-posed-an-alien-challenge-and-the-internet-is-racing-to-solve-it
+
 This Astrophysicist Posed an Alien Challenge and the Internet Is Racing to Solve It
 
 https://twitter.com/hashtag/SETIDecryptChallenge
-#SetiDecryptChallenge
+
+SetiDecryptChallenge
 
 A code break should be able to identify:
 
