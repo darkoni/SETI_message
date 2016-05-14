@@ -21,6 +21,6 @@ how to start PHP script:
 
 **`php SETI_message.php`**
 
-downloaded message will be in file `SETI_message.txt`
+downloaded message will be in file **`SETI_message.txt`**
 
-image will be created in file `SETI_message.gif`
+image will be created in file **`SETI_message.gif`**
