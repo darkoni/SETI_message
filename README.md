@@ -1,6 +1,6 @@
 # SETI message
 
-This Astrophysicist Posed an Alien Challenge and the Internet Is Racing to Solve It
+This **Astrophysicist Posed an Alien Challenge** and the Internet Is Racing to Solve It
 [link](http://mic.com/articles/142618/this-astrophysicist-posed-an-alien-challenge-and-the-internet-is-racing-to-solve-it)
 
 SetiDecryptChallenge
