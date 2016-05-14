@@ -1,12 +1,10 @@
 # SETI message
 
-http://mic.com/articles/142618/this-astrophysicist-posed-an-alien-challenge-and-the-internet-is-racing-to-solve-it
-
 This Astrophysicist Posed an Alien Challenge and the Internet Is Racing to Solve It
-
-https://twitter.com/hashtag/SETIDecryptChallenge
+[link](http://mic.com/articles/142618/this-astrophysicist-posed-an-alien-challenge-and-the-internet-is-racing-to-solve-it)
 
 SetiDecryptChallenge
+[link](https://twitter.com/hashtag/SETIDecryptChallenge)
 
 A code break should be able to identify:
 
@@ -17,12 +15,12 @@ A code break should be able to identify:
 * what it lives on
 * the age of its solar system
 
-for now, i just made PHP script that downloads message and creates GIF image
+for now, i made PHP script that downloads message and creates GIF image
 
 how to start PHP script:
 
-php SETI_message.php
+`php SETI_message.php`
 
-downloaded message will be in file SETI_message.txt
+downloaded message will be in file `SETI_message.txt`
 
-image will be created in file SETI_message.gif
+image will be created in file `SETI_message.gif`
